@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=400&color=F70000&vCenter=true&repeat=false&width=480&height=38&separator=%3C&lines=Hi+there%2C%3CI'm+Hossein+Khalili%3CI+hope+you+are+always+happy+:)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=400&color=F70000&vCenter=true&repeat=true&width=480&height=38&separator=%3C&lines=Hi+there%2C%3CI'm+Hossein+Khalili%3CI+hope+you+are+always+happy+:)" alt="Typing SVG" /></a>
 
 ## 🌐 Socials:
  <a href="https://linkedin.com/in/lho3ein" terget="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
