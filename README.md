@@ -3,7 +3,7 @@
 ## 🌐 Socials:
  <a href="https://linkedin.com/in/lho3ein" terget="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
  <a href="https://instagram.com/lho3ein"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
- <a href="https://twitter.com/lho3ein" terget="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
+ <a href="https://t.me/lho3ein1" terget="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"></a>
  <a href="mailto:lho3ein81@gmail.com" terget="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
 
 # 💻 Tech Stack:
